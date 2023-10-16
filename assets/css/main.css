@@ -8,7 +8,7 @@
   color: white;
   height: max-content;
   width: 1500px;
-  background-image: url('/assets/img/bg-2.jpg ');
+  background-image: url('https://duongdv0110.github.io/Portfolio/assets/img/bg-2.jpg ');
   background-attachment: fixed;
   background-size: cover;
   
@@ -38,7 +38,7 @@
     width: 1200px;
     height: 1000px;
     margin-left: 300px;
-    background-image: url('/assets/img/ac.png');
+    background-image: url('https://duongdv0110.github.io/Portfolio/assets/img/ac.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 300px -150px;
@@ -94,7 +94,7 @@
     width: 1200px;
     height: 1000px;
     margin-left: 300px;
-    background-image: url('/assets/img/bg.png');
+    background-image: url('https://duongdv0110.github.io/Portfolio/assets/img/bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 300px -300px;
